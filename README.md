@@ -142,18 +142,7 @@ This project demonstrates the **exact AI/ML engineering stack** that 2026 job de
 
 ---
 
-## 🛠️ Extending the Project
 
-| Feature | How |
-|---------|-----|
-| Persistent storage | Replace FAISS with ChromaDB + local persistence |
-| Multiple resume versions | Add a session-based version manager |
-| Interview prep | Add a 4th module with likely interview questions |
-| LinkedIn optimizer | Add a 5th module for LinkedIn `About` + headline rewrites |
-| Batch processing | Loop over multiple JDs to find the best match |
 
----
 
-## 📄 License
 
-MIT License — free to use, modify, and distribute.
