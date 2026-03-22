@@ -134,13 +134,7 @@ job-application-assistant/
 
 ---
 
-## 🔬 What This Proves (ATS Keywords)
 
-> RAG · LangChain · Vector Databases · Embeddings · FAISS · ChromaDB · HuggingFace · Prompt Engineering · LLM Orchestration · OpenAI API · Streamlit · PyPDF2
-
-This project demonstrates the **exact AI/ML engineering stack** that 2026 job descriptions require.
-
----
 
 
 
